@@ -12,7 +12,7 @@ const Footer = () => (
         <a className="bener-link" href="https://github.com/Heroor">
           <b> Bener </b>
         </a>
-        with
+        with ccc
         <span className="heart"> ❤</span>
       </span>
       <p>
